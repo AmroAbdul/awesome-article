@@ -24,7 +24,7 @@ beneficial list of articles and tutorials for Software Developmet, GIS, Linux, W
 ## Android
 
 - [Initial steps to install git and link it with logseq](https://github.com/CharlesChiuGit/Logseq-Git-Sync-101/wiki/For-Android-users)
-## misc
+## MISC
 
 - [مرجع لغة ماركدون باللغة العربية](https://guide.dawin.io/)
 - [](https://github.com/vrtmrz/obsidian-livesync)
